@@ -1,0 +1,294 @@
+user_id,anime_id,rating,Name
+user_1,53111,9.7,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen
+user_1,31646,9.3,3-gatsu no Lion
+user_1,2859,6.2,Ikusa Otome Valkyrie Shinshou
+user_1,10012,7.3,Carnival Phantasm
+user_1,36229,6.5,Rainbow Signal: Hi-Fi Set
+user_1,48810,6.3,Battle Spirits: Mirage
+user_1,17551,5.5,Shakugan no Shana: Shana & Yuuji no Naze Nani Shana! Nandemo Shitsumonbako!
+user_1,38058,5.4,Oi-san to 40 no Monogatari
+user_1,6749,6.9,Tennis no Ouji-sama: The Band of Princes Film Kick the Future
+user_1,21097,6.5,Oni Chichi: Rebuild
+user_1,38843,5.1,Shironeko Project: Zero Chronicle
+user_1,7752,8.0,Bao Lian Deng
+user_1,149,8.2,Loveless
+user_1,50917,8.7,Prima Doll
+user_1,5311,6.3,Astroganger
+user_1,2453,5.6,Dennou Sentai Voogie's★Angel
+user_1,51813,6.2,Umi Yori Fukai Sora no Shita
+user_1,34540,5.2,Pokemon Movie 20: Kimi ni Kimeta!
+user_1,34447,5.5,Masou Gakuen HxH Specials
+user_1,38995,6.5,Hinagiku Virgin Lost Club e Youkoso
+user_1,30455,5.5,KanColle: Itsuka Ano Umi de
+user_1,5868,4.3,Haru no Uta
+user_1,40571,8.1,Majo no Tabitabi
+user_1,1139,5.1,Monkey Magic
+user_1,315,6.5,Xiao Qian
+user_1,5266,6.6,Choujuu Kishin Dancougar: God Bless Dancougar
+user_1,35552,6.8,Pokemon Daisuki Club
+user_1,9063,6.6,Toaru Kagaku no Railgun: Entenka no Satsuei Model mo Raku Ja Arimasen wa ne.
+user_1,1165,7.5,Sakura Taisen: Ouka Kenran
+user_1,48707,6.7,Gokushufudou Part 2
+user_2,4493,5.6,Shameshrine Andorora
+user_2,34798,9.3,Yuru Camp△
+user_2,53111,7.0,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen
+user_2,2859,6.5,Ikusa Otome Valkyrie Shinshou
+user_2,32534,5.4,Xiyou Ji: Dasheng Guilai
+user_2,36229,5.6,Rainbow Signal: Hi-Fi Set
+user_2,40164,5.1,Hana (2006)
+user_2,48810,9.2,Battle Spirits: Mirage
+user_2,17551,6.5,Shakugan no Shana: Shana & Yuuji no Naze Nani Shana! Nandemo Shitsumonbako!
+user_2,39549,7.0,Clone
+user_2,6749,7.9,Tennis no Ouji-sama: The Band of Princes Film Kick the Future
+user_2,21097,7.2,Oni Chichi: Rebuild
+user_2,37611,6.3,Future Card Buddyfight Battsu: All-Star Fight
+user_2,7752,4.9,Bao Lian Deng
+user_2,31163,7.8,Dimension W
+user_2,50598,7.8,Aggressive Retsuko (ONA) 5th Season
+user_2,149,5.9,Loveless
+user_2,50917,6.3,Prima Doll
+user_2,5311,5.6,Astroganger
+user_2,2453,7.0,Dennou Sentai Voogie's★Angel
+user_2,34540,8.0,Pokemon Movie 20: Kimi ni Kimeta!
+user_2,34447,5.2,Masou Gakuen HxH Specials
+user_2,38995,3.6,Hinagiku Virgin Lost Club e Youkoso
+user_2,2678,7.1,Doraemon Movie 18: Nobita no Nejimaki City Boukenki
+user_2,30455,6.8,KanColle: Itsuka Ano Umi de
+user_2,5868,5.2,Haru no Uta
+user_2,30442,5.9,Kana Kana Kazoku x Himitsukessha Taka no Tsume Collaboration Film
+user_2,39478,6.6,Shingeki no Kyojin in the Dome: Heishi-tachi no Hoshizora
+user_2,21325,8.5,Pupipo!
+user_2,315,6.8,Xiao Qian
+user_2,5266,7.0,Choujuu Kishin Dancougar: God Bless Dancougar
+user_2,35552,5.2,Pokemon Daisuki Club
+user_2,9063,6.2,Toaru Kagaku no Railgun: Entenka no Satsuei Model mo Raku Ja Arimasen wa ne.
+user_2,12863,4.8,Pretty Rhythm: Dear My Future
+user_2,48707,8.9,Gokushufudou Part 2
+user_3,34798,8.4,Yuru Camp△
+user_3,53111,8.8,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen
+user_3,2859,6.0,Ikusa Otome Valkyrie Shinshou
+user_3,10012,6.5,Carnival Phantasm
+user_3,32534,7.0,Xiyou Ji: Dasheng Guilai
+user_3,36580,6.1,Boku wa Shitteru yo.
+user_3,36229,6.0,Rainbow Signal: Hi-Fi Set
+user_3,40164,4.6,Hana (2006)
+user_3,17551,5.0,Shakugan no Shana: Shana & Yuuji no Naze Nani Shana! Nandemo Shitsumonbako!
+user_3,39549,3.1,Clone
+user_3,37611,5.4,Future Card Buddyfight Battsu: All-Star Fight
+user_3,979,5.5,Street Fighter Zero The Animation
+user_3,10090,7.3,Koukaku Kidoutai: Stand Alone Complex - Solid State Society 3D
+user_3,31163,8.0,Dimension W
+user_3,50598,7.0,Aggressive Retsuko (ONA) 5th Season
+user_3,149,5.9,Loveless
+user_3,50917,4.7,Prima Doll
+user_3,51813,6.2,Umi Yori Fukai Sora no Shita
+user_3,34540,7.3,Pokemon Movie 20: Kimi ni Kimeta!
+user_3,34447,7.0,Masou Gakuen HxH Specials
+user_3,38995,6.2,Hinagiku Virgin Lost Club e Youkoso
+user_3,6033,6.4,Dragon Ball Kai
+user_3,30442,4.3,Kana Kana Kazoku x Himitsukessha Taka no Tsume Collaboration Film
+user_3,39478,7.5,Shingeki no Kyojin in the Dome: Heishi-tachi no Hoshizora
+user_3,21325,8.0,Pupipo!
+user_3,1139,7.5,Monkey Magic
+user_3,315,6.9,Xiao Qian
+user_3,35552,6.8,Pokemon Daisuki Club
+user_3,9063,7.8,Toaru Kagaku no Railgun: Entenka no Satsuei Model mo Raku Ja Arimasen wa ne.
+user_3,1165,6.6,Sakura Taisen: Ouka Kenran
+user_3,48707,8.7,Gokushufudou Part 2
+user_4,1401,7.7,Bible Black: New Testament
+user_4,4493,6.8,Shameshrine Andorora
+user_4,34798,7.9,Yuru Camp△
+user_4,53111,6.2,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen
+user_4,31646,7.9,3-gatsu no Lion
+user_4,2859,7.0,Ikusa Otome Valkyrie Shinshou
+user_4,32534,7.1,Xiyou Ji: Dasheng Guilai
+user_4,36580,3.9,Boku wa Shitteru yo.
+user_4,17551,7.1,Shakugan no Shana: Shana & Yuuji no Naze Nani Shana! Nandemo Shitsumonbako!
+user_4,39549,6.5,Clone
+user_4,21097,6.6,Oni Chichi: Rebuild
+user_4,979,7.2,Street Fighter Zero The Animation
+user_4,7752,6.3,Bao Lian Deng
+user_4,50598,8.3,Aggressive Retsuko (ONA) 5th Season
+user_4,50917,9.0,Prima Doll
+user_4,5311,5.4,Astroganger
+user_4,2453,4.6,Dennou Sentai Voogie's★Angel
+user_4,51813,6.6,Umi Yori Fukai Sora no Shita
+user_4,34540,7.0,Pokemon Movie 20: Kimi ni Kimeta!
+user_4,34447,4.8,Masou Gakuen HxH Specials
+user_4,2678,6.5,Doraemon Movie 18: Nobita no Nejimaki City Boukenki
+user_4,9509,4.5,Yami no Purple Eye
+user_4,30455,6.0,KanColle: Itsuka Ano Umi de
+user_4,5868,4.6,Haru no Uta
+user_4,6033,7.6,Dragon Ball Kai
+user_4,39478,5.9,Shingeki no Kyojin in the Dome: Heishi-tachi no Hoshizora
+user_4,315,5.7,Xiao Qian
+user_4,35552,6.6,Pokemon Daisuki Club
+user_4,1165,5.7,Sakura Taisen: Ouka Kenran
+user_4,12863,5.7,Pretty Rhythm: Dear My Future
+user_4,48707,7.2,Gokushufudou Part 2
+user_5,1401,6.3,Bible Black: New Testament
+user_5,4493,5.0,Shameshrine Andorora
+user_5,53111,7.8,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen
+user_5,31646,8.7,3-gatsu no Lion
+user_5,2859,4.8,Ikusa Otome Valkyrie Shinshou
+user_5,10012,7.9,Carnival Phantasm
+user_5,32534,8.6,Xiyou Ji: Dasheng Guilai
+user_5,40164,5.8,Hana (2006)
+user_5,17551,7.2,Shakugan no Shana: Shana & Yuuji no Naze Nani Shana! Nandemo Shitsumonbako!
+user_5,21097,8.3,Oni Chichi: Rebuild
+user_5,37611,5.8,Future Card Buddyfight Battsu: All-Star Fight
+user_5,38843,4.6,Shironeko Project: Zero Chronicle
+user_5,10090,7.0,Koukaku Kidoutai: Stand Alone Complex - Solid State Society 3D
+user_5,7752,5.9,Bao Lian Deng
+user_5,31163,7.9,Dimension W
+user_5,50598,7.7,Aggressive Retsuko (ONA) 5th Season
+user_5,50917,7.9,Prima Doll
+user_5,51813,7.5,Umi Yori Fukai Sora no Shita
+user_5,34540,6.7,Pokemon Movie 20: Kimi ni Kimeta!
+user_5,34447,6.8,Masou Gakuen HxH Specials
+user_5,38995,7.9,Hinagiku Virgin Lost Club e Youkoso
+user_5,2678,7.0,Doraemon Movie 18: Nobita no Nejimaki City Boukenki
+user_5,9509,4.9,Yami no Purple Eye
+user_5,30455,6.6,KanColle: Itsuka Ano Umi de
+user_5,39478,7.1,Shingeki no Kyojin in the Dome: Heishi-tachi no Hoshizora
+user_5,40571,4.9,Majo no Tabitabi
+user_5,315,7.3,Xiao Qian
+user_5,35552,7.7,Pokemon Daisuki Club
+user_5,1165,7.5,Sakura Taisen: Ouka Kenran
+user_5,48707,7.9,Gokushufudou Part 2
+user_6,1401,6.1,Bible Black: New Testament
+user_6,4493,6.1,Shameshrine Andorora
+user_6,53111,6.9,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen
+user_6,31646,8.4,3-gatsu no Lion
+user_6,36229,4.6,Rainbow Signal: Hi-Fi Set
+user_6,40164,3.3,Hana (2006)
+user_6,37611,6.5,Future Card Buddyfight Battsu: All-Star Fight
+user_6,38843,3.5,Shironeko Project: Zero Chronicle
+user_6,31163,6.8,Dimension W
+user_6,50917,6.6,Prima Doll
+user_6,5311,6.6,Astroganger
+user_6,34540,5.7,Pokemon Movie 20: Kimi ni Kimeta!
+user_6,34447,6.9,Masou Gakuen HxH Specials
+user_6,38995,5.8,Hinagiku Virgin Lost Club e Youkoso
+user_6,2678,7.5,Doraemon Movie 18: Nobita no Nejimaki City Boukenki
+user_6,29976,6.3,Dance with Devils
+user_6,21325,8.4,Pupipo!
+user_6,40571,5.1,Majo no Tabitabi
+user_6,1139,4.8,Monkey Magic
+user_6,315,5.7,Xiao Qian
+user_6,5266,6.6,Choujuu Kishin Dancougar: God Bless Dancougar
+user_6,35552,4.2,Pokemon Daisuki Club
+user_6,12863,6.0,Pretty Rhythm: Dear My Future
+user_6,48707,8.3,Gokushufudou Part 2
+user_7,53111,7.1,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen
+user_7,31646,6.7,3-gatsu no Lion
+user_7,2859,5.5,Ikusa Otome Valkyrie Shinshou
+user_7,10012,10.0,Carnival Phantasm
+user_7,32534,6.3,Xiyou Ji: Dasheng Guilai
+user_7,36229,7.1,Rainbow Signal: Hi-Fi Set
+user_7,48810,6.7,Battle Spirits: Mirage
+user_7,17551,5.8,Shakugan no Shana: Shana & Yuuji no Naze Nani Shana! Nandemo Shitsumonbako!
+user_7,38058,5.9,Oi-san to 40 no Monogatari
+user_7,6749,8.2,Tennis no Ouji-sama: The Band of Princes Film Kick the Future
+user_7,21097,6.4,Oni Chichi: Rebuild
+user_7,37611,6.1,Future Card Buddyfight Battsu: All-Star Fight
+user_7,38843,5.4,Shironeko Project: Zero Chronicle
+user_7,979,6.7,Street Fighter Zero The Animation
+user_7,10090,7.8,Koukaku Kidoutai: Stand Alone Complex - Solid State Society 3D
+user_7,7752,5.7,Bao Lian Deng
+user_7,50598,7.9,Aggressive Retsuko (ONA) 5th Season
+user_7,50917,7.1,Prima Doll
+user_7,5311,5.3,Astroganger
+user_7,2453,4.9,Dennou Sentai Voogie's★Angel
+user_7,34540,7.0,Pokemon Movie 20: Kimi ni Kimeta!
+user_7,9509,2.9,Yami no Purple Eye
+user_7,30455,7.9,KanColle: Itsuka Ano Umi de
+user_7,5868,4.4,Haru no Uta
+user_7,30442,4.2,Kana Kana Kazoku x Himitsukessha Taka no Tsume Collaboration Film
+user_7,39478,7.0,Shingeki no Kyojin in the Dome: Heishi-tachi no Hoshizora
+user_7,21325,6.8,Pupipo!
+user_7,315,7.2,Xiao Qian
+user_7,35552,5.9,Pokemon Daisuki Club
+user_7,9063,7.7,Toaru Kagaku no Railgun: Entenka no Satsuei Model mo Raku Ja Arimasen wa ne.
+user_7,1165,5.3,Sakura Taisen: Ouka Kenran
+user_7,12863,7.7,Pretty Rhythm: Dear My Future
+user_8,53111,8.8,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen
+user_8,10012,8.5,Carnival Phantasm
+user_8,32534,6.5,Xiyou Ji: Dasheng Guilai
+user_8,39549,5.7,Clone
+user_8,6749,7.4,Tennis no Ouji-sama: The Band of Princes Film Kick the Future
+user_8,21097,5.4,Oni Chichi: Rebuild
+user_8,37611,6.6,Future Card Buddyfight Battsu: All-Star Fight
+user_8,38843,4.6,Shironeko Project: Zero Chronicle
+user_8,979,8.3,Street Fighter Zero The Animation
+user_8,7752,7.7,Bao Lian Deng
+user_8,50598,7.4,Aggressive Retsuko (ONA) 5th Season
+user_8,149,6.8,Loveless
+user_8,50917,8.6,Prima Doll
+user_8,34540,7.2,Pokemon Movie 20: Kimi ni Kimeta!
+user_8,34447,5.0,Masou Gakuen HxH Specials
+user_8,2678,6.2,Doraemon Movie 18: Nobita no Nejimaki City Boukenki
+user_8,29976,5.8,Dance with Devils
+user_8,30442,3.4,Kana Kana Kazoku x Himitsukessha Taka no Tsume Collaboration Film
+user_8,39478,7.8,Shingeki no Kyojin in the Dome: Heishi-tachi no Hoshizora
+user_8,1139,4.8,Monkey Magic
+user_8,9063,7.4,Toaru Kagaku no Railgun: Entenka no Satsuei Model mo Raku Ja Arimasen wa ne.
+user_8,12863,6.3,Pretty Rhythm: Dear My Future
+user_8,48707,6.7,Gokushufudou Part 2
+user_9,4493,7.1,Shameshrine Andorora
+user_9,31646,9.6,3-gatsu no Lion
+user_9,10012,8.0,Carnival Phantasm
+user_9,36580,7.2,Boku wa Shitteru yo.
+user_9,21097,7.2,Oni Chichi: Rebuild
+user_9,37611,6.1,Future Card Buddyfight Battsu: All-Star Fight
+user_9,38843,4.6,Shironeko Project: Zero Chronicle
+user_9,10090,8.3,Koukaku Kidoutai: Stand Alone Complex - Solid State Society 3D
+user_9,50598,7.9,Aggressive Retsuko (ONA) 5th Season
+user_9,149,8.4,Loveless
+user_9,50917,6.8,Prima Doll
+user_9,5311,5.5,Astroganger
+user_9,51813,7.0,Umi Yori Fukai Sora no Shita
+user_9,34447,7.5,Masou Gakuen HxH Specials
+user_9,38995,5.9,Hinagiku Virgin Lost Club e Youkoso
+user_9,2678,6.1,Doraemon Movie 18: Nobita no Nejimaki City Boukenki
+user_9,9509,3.9,Yami no Purple Eye
+user_9,30455,5.9,KanColle: Itsuka Ano Umi de
+user_9,29976,5.0,Dance with Devils
+user_9,6033,7.3,Dragon Ball Kai
+user_9,21325,6.9,Pupipo!
+user_9,40571,6.9,Majo no Tabitabi
+user_9,1139,6.1,Monkey Magic
+user_9,9063,5.0,Toaru Kagaku no Railgun: Entenka no Satsuei Model mo Raku Ja Arimasen wa ne.
+user_9,1165,6.5,Sakura Taisen: Ouka Kenran
+user_9,48707,7.7,Gokushufudou Part 2
+user_10,1401,7.6,Bible Black: New Testament
+user_10,4493,6.2,Shameshrine Andorora
+user_10,31646,8.7,3-gatsu no Lion
+user_10,32534,6.2,Xiyou Ji: Dasheng Guilai
+user_10,36580,6.4,Boku wa Shitteru yo.
+user_10,48810,5.1,Battle Spirits: Mirage
+user_10,17551,6.6,Shakugan no Shana: Shana & Yuuji no Naze Nani Shana! Nandemo Shitsumonbako!
+user_10,21097,8.9,Oni Chichi: Rebuild
+user_10,37611,6.8,Future Card Buddyfight Battsu: All-Star Fight
+user_10,979,6.3,Street Fighter Zero The Animation
+user_10,7752,6.8,Bao Lian Deng
+user_10,31163,6.2,Dimension W
+user_10,149,7.3,Loveless
+user_10,50917,7.3,Prima Doll
+user_10,5311,8.1,Astroganger
+user_10,2453,4.8,Dennou Sentai Voogie's★Angel
+user_10,34540,7.4,Pokemon Movie 20: Kimi ni Kimeta!
+user_10,2678,7.8,Doraemon Movie 18: Nobita no Nejimaki City Boukenki
+user_10,9509,3.8,Yami no Purple Eye
+user_10,30455,6.0,KanColle: Itsuka Ano Umi de
+user_10,29976,5.7,Dance with Devils
+user_10,6033,8.8,Dragon Ball Kai
+user_10,30442,4.4,Kana Kana Kazoku x Himitsukessha Taka no Tsume Collaboration Film
+user_10,39478,8.2,Shingeki no Kyojin in the Dome: Heishi-tachi no Hoshizora
+user_10,21325,5.3,Pupipo!
+user_10,40571,6.9,Majo no Tabitabi
+user_10,1139,5.3,Monkey Magic
+user_10,315,8.5,Xiao Qian
+user_10,5266,6.8,Choujuu Kishin Dancougar: God Bless Dancougar
+user_10,35552,6.7,Pokemon Daisuki Club
+user_10,48707,7.2,Gokushufudou Part 2
