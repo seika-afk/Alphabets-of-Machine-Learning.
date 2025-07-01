@@ -59,9 +59,4 @@ Whether you're here to learn, fork, explore, or just get inspired — I hope you
 
 > 📁 "From A to Z, every folder tells a story of learning, failure, discovery, and progress."
 
-Feel free to ⭐ the repo if it sparks any inspiration!
-
----
-``` 
-
-Let me know if you want a badge section (for Python, Jupyter, etc.) or license section added too!
+Feel free to ⭐ the repo if it sparks any inspiration.
